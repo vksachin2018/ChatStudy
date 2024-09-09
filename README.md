@@ -1,6 +1,6 @@
 # Ex.No: 1b Study of Client Server Chat Applications
-###  NAME : Praveen D
-### REGISTER NO : 212222240076
+###  NAME : GOKUL SACHIN K
+### REGISTER NO : 212223220025
 ## Aim: 
 To perform a study on Client Server Chat Applications
 ## Introduction:
