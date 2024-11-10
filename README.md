@@ -1,4 +1,5 @@
 # Ex.No: 1b Study of Client Server Chat Applications
+### DATE: 19/08/2024
 ###  NAME : GOKUL SACHIN K
 ### REGISTER NO : 212223220025
 ## Aim: 
